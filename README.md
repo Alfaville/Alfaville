@@ -1,10 +1,6 @@
 <h2>I'm Felipe Alfaville, but you can call me Alfaville! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-<p><em>Software Engineer at <a href="https://www.mercadolivre.com.br/">Mercado Livre</a><img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
-  <img src="https://github-readme-stats.vercel.app/api?username=reisub0&show_icons=true" alt="reisub0" /></em></p>
-
-<!--
-**Alfaville/Alfaville** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><em>Software Engineer at <a href="https://www.mercadolivre.com.br/">Mercado Livre</a><img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" /></em></p>
 
 Here are some ideas to get you started:
 
@@ -16,7 +12,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=reisub0&show_icons=true" alt="reisub0" />
+</p>
+
 
 ### Other Accounts 📫
 
