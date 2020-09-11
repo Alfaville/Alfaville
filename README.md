@@ -21,8 +21,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=reisub0&show_icons=true" alt="reisub0" /> 
 
+</p>
+<p align="left"> </p>
 
 ### Other Accounts 📫
 
