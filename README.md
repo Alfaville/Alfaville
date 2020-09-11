@@ -2,9 +2,9 @@
 <p><em>Software Engineer at <a href="https://www.mercadolivre.com.br/">Mercado Livre</a><img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 </em></p>
 
-<div align="center">
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=reisub0&show_icons=true" alt="reisub0" />
+</p>
 
 <!--
 **Alfaville/Alfaville** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,13 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reisub0&show_icons=true" alt="reisub0" /> 
-
-</p>
-<p align="left"> </p>
 
 ### Other Accounts 📫
 
