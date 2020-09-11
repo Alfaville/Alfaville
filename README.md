@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br/>
-<p align="left">
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=reisub0&show_icons=true" alt="reisub0" /> 
 
 </p>
