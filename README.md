@@ -2,7 +2,9 @@
 <p><em>Software Engineer at <a href="https://www.mercadolivre.com.br/">Mercado Livre</a><img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 </em></p>
 
-
+<div align="center">
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+</div>
 
 <!--
 **Alfaville/Alfaville** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
