@@ -1,6 +1,6 @@
 <h2>I'm Felipe Alfaville, but you can call me Alfaville! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-<p><em>Software Engineer at <a href="https://www.mercadolivre.com.br/">Mercado Livre</a><img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" /></em></p>
+<p><em>Software Architect at PlayKids by Kuber Solutions</p>
 
 Here are some ideas to get you started:
 
