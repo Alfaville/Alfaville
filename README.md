@@ -1,10 +1,9 @@
 <h2>I'm Felipe Alfaville, but you can call me Alfaville! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-<p><em>Software Architect at PlayKids by Kuber Solutions</p>
+<p><em>Software Engineer at Pismo</p>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Mercado Livre
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 💬 Ask me about anything
 - 📫 How to reach me: lipealfaville@gmail.com
