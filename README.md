@@ -8,9 +8,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: lipealfaville@gmail.com
 
-
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alfaville&show_icons=true" alt="reisub0" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alfaville&show_icons=true&count_private=true&theme=dark" alt="reisub0" />
 </p>
 
 
